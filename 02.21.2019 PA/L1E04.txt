@@ -1,0 +1,6 @@
+x = int ( input ("Digite um numero e aperte <ENTER>"))
+y = x + 10
+a = int ( input ("Digite um numero e aperte <ENTER>"))
+b = a / 2
+print (y)
+print (b)

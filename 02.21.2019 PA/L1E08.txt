@@ -1,0 +1,9 @@
+x = int ( input ("Digite um numero e pressione <ENTER>"))
+y = int ( input ("Digite um numero e pressione <ENTER>"))
+z = int ( input ("Digite um numero e pressione <ENTER>"))
+a = x + 10
+b = y - 5
+c = z * 2
+print (a)
+print (b)
+print (c)

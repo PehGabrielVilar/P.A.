@@ -1,0 +1,4 @@
+x = int ( input("Digite um numero e tecle <ENTER>"))
+y = x - 3
+w = y * 2
+print(w)

@@ -1,0 +1,3 @@
+x = int( input("Digite um numero e tecle <ENTER>"))
+x = x + 5
+print("O resultado e:", x)               

@@ -1,0 +1,6 @@
+x = int ( input ("Digite um numero e aperte <ENTER>"))
+y = int ( input ("Digite um numero e aperte <ENTER>"))
+z = x + 2
+w = y + 2
+print ( z )
+print ( w )

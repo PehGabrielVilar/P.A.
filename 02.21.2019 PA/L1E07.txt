@@ -1,0 +1,23 @@
+x = int ( input ("Pressione um numero e aperte <ENTER>"))
+a = x * 0
+print ( a )
+b = x * 1
+print ( b )
+c = x * 2
+print ( c )
+d = x * 3
+print ( d )
+e = x * 4
+print ( e )
+f = x * 5
+print ( f )
+g = x * 6
+print ( g )
+h = x * 7
+print ( h )
+i = x * 8
+print ( i )
+j = x * 9
+print ( j )
+k = x * 10
+print ( k )

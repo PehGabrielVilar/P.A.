@@ -1,0 +1,4 @@
+x = int ( input ("Digite um numero e pressione <ENTER>"))
+y = x - 3
+z = y + x
+print ( z )
